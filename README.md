@@ -6,7 +6,7 @@
 - I'm usually online somewhere so do not hesitate to reach out on any topic.
 --- 
 
-Life is not `1` and `0`, its `1s` and `0s`; I do not `0` or `-0` percent believe that we live in a simulation, so my whole life has been about leveraging that; I conceptualise scenarios, crunch through the best cases and act the most plausible. I do let go sometimes but most times, I’m focused on properly diffusing my thoughts. …becomes word become action, become habit, become character, this is destiny.
+Life is not `1` and `0`, its `1s` and `0s`; I do not `0` or `-0` percent believe that we live in a simulation, so my whole life has been about leveraging that; I conceptualise scenarios, crunch through the best cases and act the most plausible. I do let go sometimes but most times, I’m focused on properly diffusing my thoughts. …becomes words, become actions, become habits, become character, this is destiny.
 
 **_trust unto god and he shall direct your path_**
 
