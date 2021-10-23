@@ -2,8 +2,7 @@
 
 Welcome to my Github profile page. Please find my projects and enjoy looking around. I'm typically online somewhere so do not hesitate to reach out on any topic. I do this for the love of it.
 
-**Contacts 📥**
-- ["[Email](mailto://enitanchris@gmail.com)", "[LinkedIn](https://www.linkedin.com/in/enitan-chris/)", "[Twitter](https://twitter.com/mushsick)"]
+- **Contacts** = ["[Email](mailto://enitanchris@gmail.com)", "[LinkedIn](https://www.linkedin.com/in/enitan-chris/)", "[Twitter](https://twitter.com/mushsick)"]
 
 
 <!-- Here are some ideas to get you started:
