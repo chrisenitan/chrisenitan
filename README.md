@@ -12,7 +12,7 @@ Life is not `1` and `0`, its `1s` and `0s`; I do not `0` or `-0` percent believe
 
 ---
 
-- **Contacts** = ["[Email](mailto://enitanchris@gmail.com)", "[LinkedIn](https://www.linkedin.com/in/enitan-chris/)", "[Twitter](https://twitter.com/mushsick)"]
+- **Contacts** = ["[Email](mailto://enitanchris@gmail.com)", "[LinkedIn](https://www.linkedin.com/in/chrisenitan/)", "[Twitter](https://twitter.com/mushsick)"]
 
 
 
