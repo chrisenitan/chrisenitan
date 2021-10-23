@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**chrisenitan/chrisenitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile page. Please find my projects and enjoy looking around. I'm typically online somewhere so do not hesitate to reach out on any topic. I do this for love. 
 
-Here are some ideas to get you started:
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
