@@ -4,9 +4,9 @@
 ### Welcome to my Github profile page. 
 
 - I'm usually online somewhere so do not hesitate to reach out on any topic and please do enjoy looking around and dropping comments or hints on any line.
---- 
+- Be the best version of yourself, I'm rooting for you!
 
-Life is not `1` and `0`, its `1s` and `0s`; I do not `0` or `-0` percent believe that we live in a simulation, so my whole life has been about leveraging that; I conceptualise scenarios, crunch through the best cases and act the most plausible. I do let go sometimes but most times, I’m focused on properly diffusing my thoughts. …becomes words, become actions, become habits, become character, this is destiny.
+--- 
 
 **_trust unto god and he shall direct your path_**
 
