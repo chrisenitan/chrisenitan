@@ -6,9 +6,10 @@
 - I'm usually online somewhere so do not hesitate to reach out on any topic and please do enjoy looking around and dropping comments or hints on any line.
 
 ---
-
-- **Contacts** = ["[Email](mailto://enitanchris@gmail.com)", "[LinkedIn](https://www.linkedin.com/in/chrisenitan/)", "[Twitter](https://twitter.com/mushsick)"]
-
+{<br>
+contacts: ["[Email](mailto://enitanchris@gmail.com)", "[LinkedIn](https://www.linkedin.com/in/chrisenitan/)", "[Twitter](https://twitter.com/mushsick)"],<br>
+cv: "[Download as PDF](http://bit.ly/2ZS0i0i)"<br>
+}
 
 --- 
 
