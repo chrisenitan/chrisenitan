@@ -4,6 +4,7 @@
 ### Welcome to my Github profile page. 
 
 - I'm usually online somewhere so do not hesitate to reach out on any topic and please do enjoy looking around and dropping comments or hints on any line.
+- I work mostly with vanilla code and write functional and procedural paradigms but of course happy to be part of however you define fun so let's 
 
 ---
 {<br>
