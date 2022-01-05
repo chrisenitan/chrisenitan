@@ -13,7 +13,7 @@ cv: "[View file](http://bit.ly/2ZS0i0i)"<br>
 
 --- 
 
-**_Be the best version of yourself, I'm rooting for you!_**
+**_Thinking Anthem_**
 
 <!-- Here are some ideas to get you started:
 
