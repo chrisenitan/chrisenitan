@@ -14,6 +14,8 @@ cv: "[View file](http://bit.ly/2ZS0i0i)"<br>
 --- 
 
 **_Thinking Anthem_**
+- James 1:19
+- Proverbs 3:5-6
 
 <!-- Here are some ideas to get you started:
 
