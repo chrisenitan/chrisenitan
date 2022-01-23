@@ -7,8 +7,11 @@
 
 ---
 {<br>
-contacts: ["[Email](mailto://enitanchris@gmail.com)", "[LinkedIn](https://www.linkedin.com/in/chrisenitan/)", "[Twitter](https://twitter.com/mushsick)"],<br>
-cv: "[View file](http://bit.ly/2ZS0i0i)"<br>
+
+contacts: ["[Email](mailto://enitanchris@gmail.com)", "[LinkedIn](https://www.linkedin.com/in/chrisenitan/)", "[Twitter](https://twitter.com/mushsick)"],<br><br>
+cv: "[View file](http://bit.ly/2ZS0i0i)",<br><br>
+currentlyWorkingAt: [Checkout](https://github.com/chris-enitan-cko)<br>
+
 }
 
 --- 
