@@ -4,6 +4,9 @@
 ### Welcome to my Github profile page. 
 
 - I'm usually online somewhere so do not hesitate to reach out on any topic and please do enjoy looking around and dropping comments or hints on any line.
+- Vanilla forever
+
+
 
 ---
 {<br>
@@ -16,7 +19,7 @@ currentlyWorkingAt: [Checkout](https://github.com/chris-enitan-cko)<br>
 
 --- 
 
-**_Thinking Anthem_**
+**_Thinking Anthem_** `...I'm pondering`
 - James 1:19
 - Proverbs 3:5-6
 
