@@ -19,9 +19,8 @@ currentlyWorkingAt: "[Checkout](https://github.com/chris-enitan-cko)"<br>
 
 --- 
 
-**_Thinking Anthem_** `...I'm pondering`
-- James 1:19
-- Proverbs 3:5-6
+**_Thinking Anthem_** 
+- Look at the bigger picture. 
 
 <!-- Here are some ideas to get you started:
 
