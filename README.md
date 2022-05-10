@@ -3,9 +3,9 @@
 I write mostly Javascript and every adaption its turned into for some time now and I have to say I enjoy it. You'll find other things I try here, have fun, comment and see you in **2077**
 
 #### Contacts
-- [Email](mailto://enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/mushsick)
+- [Email](mailto://enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/mushsick), [Medium](https://medium.com/@mushsick)
 - I currently working at [Checkout.com](https://github.com/chris-enitan-cko)
-- ...and you can find my CV on [View file](http://bit.ly/2ZS0i0i)
+- ...and you can find [my CV](http://bit.ly/2ZS0i0i)
 
 
 The usual:
