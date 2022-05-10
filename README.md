@@ -1,35 +1,19 @@
+### this is chris.
 
-## Hi there 👋
+I write mostly Javascript and every adaption its turned into for some time now and I have to say I enjoy it. You'll find other things I try here, have fun, comment and see you in **2077**
 
-### Welcome to my Github profile page. 
+#### Contacts
+- [Email](mailto://enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/mushsick)
+- I currently working at [Checkout.com](https://github.com/chris-enitan-cko)
+- ...and you can find my CV on [View file](http://bit.ly/2ZS0i0i)
 
-- I'm usually online somewhere so do not hesitate to reach out on any topic and please do enjoy looking around and dropping comments or hints on any line.
-- Vanilla forever
 
+The usual:
 
+- 🔭 I’m currently working on my own version of Obsidian
+- 🌱 I’m currently learning some more coding principles
+- 👯 I’m hoping to collaborate on anything hardware related
+- 🤔 I’m looking for help with local database management
+- 💬 Ask me about astrophysics
+- ⚡ Fun fact: I'll make an app for this. 
 
----
-{<br>
-
-contacts: ["[Email](mailto://enitanchris@gmail.com)", "[LinkedIn](https://www.linkedin.com/in/chrisenitan/)", "[Twitter](https://twitter.com/mushsick)"],<br><br>
-cv: "[View file](http://bit.ly/2ZS0i0i)",<br><br>
-currentlyWorkingAt: "[Checkout](https://github.com/chris-enitan-cko)"<br>
-
-}
-
---- 
-
-**_Thinking Anthem_** 
-- Look at the bigger picture. 
-
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
