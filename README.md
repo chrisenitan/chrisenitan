@@ -15,5 +15,5 @@ The usual:
 - 👯 I’m hoping to collaborate on anything hardware related
 - 🤔 I’m looking for help with local database management
 - 💬 Ask me about astrophysics
-- ⚡ Fun fact: I'll make an app for this. 
+- ⚡ Fun fact: I saw a video about Pointers in C and haven't stopped thinking about it. 
 
