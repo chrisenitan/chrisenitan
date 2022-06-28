@@ -1,4 +1,4 @@
-### [this is chris 'at work'](https://github.com/chris-enitan-cko)
+### [this is chris](https://github.com/chrisenitan) - ['at work'](https://github.com/chris-enitan-cko)
 
 I write mostly Javascript and every adaption its turned into for some time now and I have to say I enjoy it. You'll find other things I try here, have fun, comment, fork and see you in **2077**
 
