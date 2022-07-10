@@ -3,7 +3,7 @@
 I write mostly Javascript and every adaption its turned into for some time now and I have to say I enjoy it. You'll find other things I try here, have fun, comment, fork and see you in **2077**
 
 #### Contacts
-- [Email](mailto://enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/mushsick), [Medium](https://medium.com/@chrisenitan)
+- [Email](mailto://enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/chris_enitan), [Medium](https://medium.com/@chrisenitan)
 - ...and you can find [my CV](http://bit.ly/2ZS0i0i)
 
 
