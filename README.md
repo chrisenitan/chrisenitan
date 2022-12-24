@@ -16,9 +16,5 @@ I write mostly Javascript and every adaption its turned into for some time now a
 ---
 the usual:
 
-- 🔭 I’m currently working on my own version of Obsidian
 - 🌱 I’m currently learning some more coding principles
-- 👯 I’m hoping to collaborate on anything hardware related
-- 🤔 I’m looking for help with local database management
-- 💬 Ask me about astrophysics
-- ⚡ Fun fact: in the expanse of possible abilities of life beyond our system; to speak to processors, ehances our specie
+- ⚡ in the expanse of possible abilities of life beyond our system; to speak to processors, ehances our specie
