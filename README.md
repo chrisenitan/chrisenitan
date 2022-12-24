@@ -21,5 +21,4 @@ the usual:
 - 👯 I’m hoping to collaborate on anything hardware related
 - 🤔 I’m looking for help with local database management
 - 💬 Ask me about astrophysics
-- ⚡ Fun fact: I saw a video about Pointers in C and haven't stopped thinking about it. 
-
+- ⚡ Fun fact: in the expanse of possible abilities of life beyond our system; to speak to processors, ehances our specie
