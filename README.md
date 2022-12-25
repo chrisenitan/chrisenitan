@@ -1,8 +1,8 @@
-ahoy there 👋<br>
+ahoy there 👋, this is chris<br>
 
-### [this is chris](https://github.com/chrisenitan) - [at the studio](https://github.com/chris-enitan-cko)
+### [at home](https://github.com/chrisenitan) - [at the studio](https://github.com/chris-enitan-cko)
 
-I write mostly Javascript and every adaption its turned into for some time now and I have to say I enjoy it. You'll find other things I try here, have fun, comment, fork and find me in **2077**
+I write mostly Javascript and every adaption of it. Look around, use, comment, fork and find me in **2077**.
 
 ### contacts
 - [Email](mailto:enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/chris_enitan), [Medium](https://medium.com/@chrisenitan)
