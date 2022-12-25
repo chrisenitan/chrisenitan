@@ -1,6 +1,6 @@
-ahoy there 👋, this is chris<br>
+ahoy there 👋 this is chris<br>
 
-### [at home](https://github.com/chrisenitan) - [at the studio](https://github.com/chris-enitan-cko)
+### [at home](https://github.com/chrisenitan) and [at the studio](https://github.com/chris-enitan-cko)
 
 I write mostly Javascript and every adaption of it. Look around, use, comment, fork and find me in **2077**.
 
@@ -14,7 +14,7 @@ I write mostly Javascript and every adaption of it. Look around, use, comment, f
 
 
 ---
-the usual:
+the usual: 
 
 - 🌱 I’m currently learning some more coding principles
 - ⚡ in the expanse of possible abilities of life beyond our system; to speak to processors, ehances our specie
