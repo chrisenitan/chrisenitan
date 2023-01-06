@@ -2,7 +2,7 @@ ahoy there 👋 this is chris<br>
 
 ### [at home](https://github.com/chrisenitan) and [at the studio](https://github.com/chris-enitan-cko)
 
-I write mostly Javascript and every adaption of it. Look around, use, comment, fork and find me in **2077**.
+I write mostly Javascript and every adaption of it. Look around, use, comment, fork, help with some [#issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Achrisenitan+archived%3Afalse+is%3Apublic) and find me in **2077**.
 
 ### contacts
 - [Email](mailto:enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/chris_enitan), [Medium](https://medium.com/@chrisenitan)
