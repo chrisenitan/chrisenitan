@@ -1,12 +1,12 @@
-ahoy there 👋 this is chris<br>
+ahoy there 👋<br>
 
-### [at home](https://github.com/chrisenitan) and [at the studio](https://github.com/chris-enitan-cko)
+### [this is chris](https://github.com/chrisenitan)
 
 I write mostly Javascript and every adaption of it. Look around, use, comment, fork, help with some [#issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3Achrisenitan+archived%3Afalse+is%3Apublic) and find me in **2077**.
 
-### contacts
-- [Email](mailto:enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/chris_enitan), [Medium](https://medium.com/@chrisenitan)
-- ...and you can find [my CV](http://bit.ly/2ZS0i0i)
+### profiles
+- social : [Email](mailto:enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/chris_enitan), [Medium](https://medium.com/@chrisenitan)
+- work : [checkout](https://github.com/chris-enitan-cko), [heyflow](https://heyflow.app) - [cv](http://bit.ly/2ZS0i0i)
 
 ### most recent blog posts
 - [building tests as modules](https://medium.com/checkout-com-techblog/building-tests-as-modules-572eb0faffbe)
