@@ -6,7 +6,8 @@ I write mostly Javascript and every adaption of it. Look around, use, comment, f
 
 ### profiles
 - social : [Email](mailto:enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/chris_enitan), [Medium](https://medium.com/@chrisenitan)
-- work : [checkout](https://github.com/chris-enitan-cko), [heyflow](https://heyflow.app) - [cv](http://bit.ly/2ZS0i0i)
+- work : [checkout](https://github.com/chris-enitan-cko), [heyflow](https://heyflow.app) 
+- doc: [cv](http://bit.ly/2ZS0i0i)
 
 ### most recent blog posts
 - [building tests as modules](https://medium.com/checkout-com-techblog/building-tests-as-modules-572eb0faffbe)
