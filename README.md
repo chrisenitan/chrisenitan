@@ -15,7 +15,9 @@ Javascript since 2013 and every other adaption of it. Look around, use, comment,
 
 
 ---
-the usual: 
+what I'm up to
 
-- 🌱 I’m currently learning some more coding principles
-- ⚡ in the expanse of possible abilities of life beyond our system; to speak to processors, ehances our specie
+- 🌱 In a private repo (for now). Im building a set of tools to handle lots of day to day tasks and ultimately replicate me.
+<br>
+
+`in the expanse of possible abilities of life beyond our system; to communicate with processors is our greates work`
