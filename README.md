@@ -20,4 +20,4 @@ what I'm up to
 - 🌱 In a private repo (for now). Im building a set of tools to handle lots of day to day tasks and ultimately replicate me.
 <br>
 
-`in the expanse of possible abilities of life beyond our system; to communicate with processors is our greates work`
+`in the expanse of possible abilities of life beyond our system; to communicate with processors is our greatest work`
