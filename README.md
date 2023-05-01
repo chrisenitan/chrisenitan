@@ -9,6 +9,10 @@ Javascript since 2013 and every other adaption of it. Look around, use, comment,
 - work profiles : [checkout](https://github.com/chris-enitan-cko)
 - doc: [cv](http://bit.ly/2ZS0i0i)
 
+### featured projects
+- [mspn](https://github.com/chrisenitan/mspn) Software suite covering an array of productivity tools
+- [entneo-apps](https://github.com/entneo/entneo-apps) Professional social media platform
+
 ### most recent blog posts
 - [building tests as modules](https://medium.com/checkout-com-techblog/building-tests-as-modules-572eb0faffbe)
 - [unleash test pipelines in your delivery workflow](https://medium.com/@chrisenitan/unleash-test-pipelines-in-your-delivery-workflow-s-3f94a04c765b)
