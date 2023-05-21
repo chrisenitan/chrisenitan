@@ -21,7 +21,7 @@ Javascript since 2013 and every other adaption of it. Look around, use, comment,
 ---
 what I'm up to
 
-- 🌱 Doing a lot if research on the next phase of AI Singularity and Neural Interfacing.
+- 🌱 Doing a lot of research on the next phase of AI Singularity and Neural Interfacing.
 <br>
 
-`in the expanse of possible abilities of life beyond our system; to communicate with processors is our greatest work`
+`in the expanse of possible abilities of life beyond our system; to communicate through and with eletricity is our greatest work`
