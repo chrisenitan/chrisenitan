@@ -10,8 +10,8 @@ Javascript since 2013 and every other adaption of it. Look around, use, comment,
 - doc: [cv](http://bit.ly/2ZS0i0i)
 
 ### featured projects
-- [mspn](https://github.com/chrisenitan/mspn) Software suite covering an array of productivity tools
-- [entneo-apps](https://github.com/entneo/entneo-apps) Professional social media platform
+- [mspn](https://github.com/chrisenitan/mspn) An API driven software suite covering an array of productivity tools on web and command line interfaces
+- [entneo-apps](https://github.com/entneo/entneo-apps) Start-up: Professional social media platform
 
 ### most recent blog posts
 - [building tests as modules](https://medium.com/checkout-com-techblog/building-tests-as-modules-572eb0faffbe)
@@ -21,7 +21,7 @@ Javascript since 2013 and every other adaption of it. Look around, use, comment,
 ---
 what I'm up to
 
-- 🌱 In a private repo (for now). Im building a set of tools to handle lots of day to day tasks and ultimately replicate me.
+- 🌱 Doing a lot if research on the next phase of AI Singularity and Neural Interfacing.
 <br>
 
 `in the expanse of possible abilities of life beyond our system; to communicate with processors is our greatest work`
