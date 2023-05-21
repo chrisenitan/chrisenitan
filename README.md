@@ -24,4 +24,4 @@ what I'm up to
 - 🌱 Doing a lot of research on the next phase of AI Singularity and Neural Interfacing.
 <br>
 
-`in the expanse of possible abilities of life beyond our system; to communicate through and with eletricity is our greatest work`
+`in the expanse of possible abilities of life beyond our system; to communicate through and with electricity is our greatest work`
