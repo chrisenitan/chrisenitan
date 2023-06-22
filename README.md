@@ -6,7 +6,9 @@ Javascript since 2013 and every other adaption of it. Look around, use, comment,
 
 ### profiles
 - social : [Email](mailto:enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/chris_enitan), [Medium](https://medium.com/@chrisenitan)
-- work profiles : [checkout](https://github.com/chris-enitan-cko)
+- work
+  - currently working at : [leapsome](https://github.com/Leapsome)
+  - old profiles : [checkout](https://github.com/chris-enitan-cko)
 - doc: [cv](http://bit.ly/2ZS0i0i)
 
 ### featured projects
