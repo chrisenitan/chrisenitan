@@ -8,7 +8,7 @@ Javascript since 2013 and every other adaption of it. Look around, use, comment,
 - social : [Email](mailto:enitanchris@gmail.com), [LinkedIn](https://www.linkedin.com/in/chrisenitan/), [Twitter](https://twitter.com/chris_enitan), [Medium](https://medium.com/@chrisenitan)
 - work
   - currently working at : [leapsome](https://github.com/Leapsome)
-  - old profiles : [checkout](https://github.com/chris-enitan-cko)
+  - old profiles : [checkout](https://github.com/chris-enitan-cko), [fotograf](https://github.com/fotografde), [asana-rebel](https://github.com/asanarebel), [helpling](https://github.com/Helpling)
 - doc: [cv](http://bit.ly/2ZS0i0i)
 
 ### featured projects
