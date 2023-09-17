@@ -12,7 +12,8 @@ Javascript since 2013 and every other adaption of it. Look around, use, comment,
 - doc: [cv](http://bit.ly/2ZS0i0i)
 
 ### featured projects
-- [mspn](https://github.com/chrisenitan/mspn) An API driven software suite covering an array of productivity tools on web and command line interfaces
+- [mspn](https://github.com/chrisenitan/mspn) An route based software suite covering an array of productivity tools on web and command line interfaces
+    - is being rewritten as an API first architecture using Deno and Vite
 - [entneo-apps](https://github.com/entneo/entneo-apps) Start-up: Professional social media platform
 
 ### most recent blog posts
